@@ -1,4 +1,10 @@
-/home/dkp/BlockchainProject/src/main/java/com/example/blockchain/Blockchain.java
-/home/dkp/BlockchainProject/src/main/java/com/example/blockchain/App.java
-/home/dkp/BlockchainProject/src/main/java/com/example/blockchain/StringUtil.java
-/home/dkp/BlockchainProject/src/main/java/com/example/blockchain/Block.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/blockchain/Block.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/blockchain/Blockchain.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/consensus/Consensus.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/cryptography/StringUtil.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/consensus/PoWConsensus.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/network/Node.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/consensus/PoSConsensus.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/cryptography/CryptoUtil.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/network/P2PNetwork.java
+/home/kdaniil/blockchain-on-java/src/main/java/com/example/blockchain/transactions/Transaction.java
